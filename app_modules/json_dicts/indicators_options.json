@@ -1,0 +1,20 @@
+{
+    "ema_200": {"line": {"color": "orange", "width": 2},
+                "name": "EMA 200",
+                "hoverinfo":"name+y"},
+    "ema_50": {"line": {"color": "green", "width": 2},
+               "name": "EMA 50",
+               "hoverinfo":"name+y"},
+    "ema_21": {"line": {"color": "blue", "width": 2},
+               "name": "EMA 21",
+               "hoverinfo":"name+y"}, 
+    "bb_lower": {"line": {"color": "red", "width": 2},
+                 "name": "BBand",
+                 "hoverinfo":"none"}, 
+    "bb_mid": {"line": {"color": "red", "width": 2},
+               "name": "BBand", 
+               "hoverinfo":"none"}, 
+    "bb_upper": {"line": {"color": "red", "width": 2},
+                 "name": "BBand", 
+                 "hoverinfo":"none"}
+}

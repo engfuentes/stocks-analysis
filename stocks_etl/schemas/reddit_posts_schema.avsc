@@ -1,0 +1,17 @@
+{
+  "type": "record",
+  "name": "reddit_post_schema",
+  "namespace": "com.rfuentes",
+  "doc": "Schema for reddit posts",
+  "fields": [
+    { "name": "id",  "type": "string" },
+    { "name": "title",  "type": "string" },
+    { "name": "selftext", "type": "string" },
+    { "name": "score", "type": "string" },
+    { "name": "num_comments", "type": "string" },
+    { "name": "author",  "type": "string" },
+    { "name": "created_utc",  "type": "string" },
+    { "name": "url",  "type": "string" },
+    { "name": "permalink",  "type": "string" }
+  ]
+}

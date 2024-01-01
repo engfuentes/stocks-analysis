@@ -1,0 +1,16 @@
+{
+    "ytdreturn": "YTD Return",
+    "threeyearaveragereturn": "3 Year Average Return",
+    "fiveyearaveragereturn": "5 Year Average Return",
+    "beta3year": "Beta 3 Year",
+    "averagedailyvolume10day": "Average Daily Volume 10 Day",
+    "averagevolume": "Average Volume",
+    "fiftydayaverage": "50 Day Average",
+    "twohundreddayaverage": "200 Day Average",
+    "fiftytwoweekhigh": "52 Week High",
+    "fiftytwoweeklow": "52 Week Low",
+    "totalassets": "Total Assets",
+    "trailingannualdividendrate": "Trailing Annual Dividend Rate",
+    "trailingannualdividendyield": "Trailing Annual Dividend Yield",
+    "trailingpe": "Trailing PE"
+}

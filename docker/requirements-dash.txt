@@ -1,0 +1,8 @@
+dash
+dash-bootstrap-components
+nbformat
+yfinance
+cassandra-driver
+pyspark
+pandas_ta
+confluent-kafka

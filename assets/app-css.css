@@ -1,0 +1,20 @@
+.stocks-table tr, .stocks-table td {
+    font-size: 12px;
+    padding: 7px;}
+
+.stocks-accordion p {
+    font-size: 12px;
+    text-align: justify;
+    margin-top: 10px;
+}
+
+.stocks-accordion h6 , .stocks-accordion a,
+.reddit-accordion{
+    font-size: 14px;
+    text-align: justify;
+}
+
+.stocks-accordion {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}

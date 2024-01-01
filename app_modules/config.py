@@ -1,0 +1,4 @@
+
+constants = {
+ "cassandra": {
+    "hostname": "dse"}}
